@@ -1,0 +1,1 @@
+console.log("👋 Welcome! Running with Bun 🥖 test");
