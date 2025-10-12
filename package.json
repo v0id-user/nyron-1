@@ -4,7 +4,7 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@nyron/cli": "0.5.2",
+    "@nyron/cli": "0.5.8",
     "@types/bun": "latest"
   },
   "peerDependencies": {
