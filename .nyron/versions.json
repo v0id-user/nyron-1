@@ -1,4 +1,11 @@
 {
   "createdAt": "2025-10-12T05:03:46.750Z",
-  "packages": {}
+  "packages": {
+    "sdk": [
+      {
+        "prefix": "sdk",
+        "version": "0.1.4"
+      }
+    ]
+  }
 }
